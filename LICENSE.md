@@ -1,4 +1,4 @@
-#  
+#  Obsidian for macOS secure Automation - custom shortcuts and focus mode offers the most advanced Obsidian for macOS automation, with custom shortcuts and focus mode. Ideal for
 
 
 
